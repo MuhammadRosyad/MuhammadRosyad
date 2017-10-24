@@ -11,4 +11,5 @@ int main(){
 	cout <<"Luas 1 Box		: "<<Luas1Box<<" m2"<<endl;
 	
 	JumlahBoxP = LuasRumah/Luas1Box;
+	cout<<"Jumlah Box Parket	: "<<JumlahBoxP<<endl;
 }
