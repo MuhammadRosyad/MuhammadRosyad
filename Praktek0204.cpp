@@ -14,4 +14,8 @@ int main(){
 	cout<<"Jumlah Box Parket	: "<<JumlahBoxP<<endl;
 	
 	BiayaP = JumlahBoxP*500;
+	cout <<"Biaya Parket	(Rp)	: "<<BiayaP<<endl;
+	
+	BiayaPG = LuasRumah*20;
+	
 }
