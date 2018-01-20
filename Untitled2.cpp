@@ -12,4 +12,7 @@ int main (){
 	Amerika.kekuatan = "Teknologi Modern";
 	China.kekuatan = "Kemampuan Manusianya";
 	Rusia.kekuatan = "Teknologi Nuklir";
+	
+	cout << ( Amerika.kekuatan);
+	Amerika.luas("luas sekali");
 }
