@@ -13,4 +13,9 @@ int main (){
 	China.kekuatan = "Kemampuan Manusianya";
 	Rusia.kekuatan = "Teknologi Nuklir";
 
+	cout << ( Amerika.kekuatan);
+	Amerika.luas("luas sekali");
+	
+	China.luas("luas padat");
+}
 
