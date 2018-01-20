@@ -18,3 +18,7 @@ int main (){
 	
 	China.luas("luas padat");
 }
+
+void Negara::luas(string luas){
+	cout<<" luasnya "<<luas<<" sangat besar untuk kamu hidup \n";
+}
