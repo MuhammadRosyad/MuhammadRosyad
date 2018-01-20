@@ -15,4 +15,6 @@ int main (){
 	
 	cout << ( Amerika.kekuatan);
 	Amerika.luas("luas sekali");
+	
+	China.luas("luas padat");
 }
